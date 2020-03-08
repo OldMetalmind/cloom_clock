@@ -1,5 +1,7 @@
 # Cloom Clock
 
+:star2: "Visual Beauty Winner" of the 2020 Clock Challenge, [announcement post](https://medium.com/flutter/its-time-the-flutter-clock-contest-results-dcebe2eb3957)
+
 This is the clock made with Flutter for the [Flutter 2020 clock](https://flutter.dev/clock) contest with colaboration with Francisco Frutuoso and code by Filipe Barroso
 
 ## Clock
