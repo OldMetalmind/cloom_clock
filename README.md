@@ -2,6 +2,10 @@
 
 :star2: "Visual Beauty Winner" of the 2020 Clock Challenge, [announcement post](https://medium.com/flutter/its-time-the-flutter-clock-contest-results-dcebe2eb3957)
 
+:bookmark: You can read our blog post describing the process [here](https://medium.com/@ffrutuoso/flutter-clock-2395c429fcc5)
+
+## Project
+
 This is the clock made with Flutter for the [Flutter 2020 clock](https://flutter.dev/clock) contest with colaboration with Francisco Frutuoso and code by Filipe Barroso
 
 ## Clock
