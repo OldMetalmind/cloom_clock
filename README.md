@@ -4,6 +4,18 @@
 
 :bookmark: You can read our blog post describing the process [here](https://medium.com/@ffrutuoso/flutter-clock-2395c429fcc5)
 
+## How to Run
+
+If you wish to run this project locally you'll have to first clone the auxiliary project of Google [Flutter Clock](https://github.com/flutter/flutter_clock) ( https://github.com/flutter/flutter_clock ) and then clone this project inside the main project so it has the following folder stucture:
+
+```
+/flutter_clock/
+|--/flutter_clock_helper/
+|--/cloom_clock/
+```
+
+This project relies on the code provided by the folder `/flutter_clock_helper`
+
 ## Project
 
 This is the clock made with Flutter for the [Flutter 2020 clock](https://flutter.dev/clock) contest with colaboration with Francisco Frutuoso and code by Filipe Barroso
